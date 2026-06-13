@@ -8,5 +8,6 @@ layout: 'dashboard-layout'
 
 <template>
   <div>Page: Dashboard</div>
+  
 </template>
 <style scoped></style>
